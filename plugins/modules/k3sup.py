@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 DOCUMENTATION = r'''
 ---
@@ -118,7 +118,7 @@ options:
 
 EXAMPLES = r'''
 - name: Install k3s on remote host
-    vandot.k3sup.k3sup:
+    andreaswachs.k3sup.k3sup:
     action: server
     ip: "1.1.1.1"
     ssh_key: "~/.ssh/id_ed25519"

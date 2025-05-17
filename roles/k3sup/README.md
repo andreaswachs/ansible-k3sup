@@ -41,7 +41,7 @@ Example playbook:
 ```yaml
 - hosts: servers
   roles:
-   - { role: vandot.k3sup.k3sup, k3sup_release_version: 0.9.6 }
+   - { role: andreaswachs.k3sup.k3sup, k3sup_release_version: 0.9.6 }
 ```
 
 ## License

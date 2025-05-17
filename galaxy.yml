@@ -1,10 +1,11 @@
 ---
-namespace: "vandot"
+namespace: "andreaswachs"
 name: "k3sup"
-version: "0.1.9"
+version: "0.1.10"
 readme: "README.md"
 authors:
-  - "Ivan Vandot (https://ivan.vandot.rs/)"
+  - "Ivan Vandot (https://ivan.andreaswachs.rs/)"
+  - "Andreas Wachs"
 description: Manage k3sup
 license_file: "LICENSE"
 tags:
@@ -12,4 +13,4 @@ tags:
   - k3s
   - containerd
   - lightweight
-repository: "https://github.com/vandot/ansible-k3sup"
+repository: "https://github.com/andreaswachs/ansible-k3sup"
